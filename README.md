@@ -1,2 +1,2 @@
 # MergeConflict
-Technical Hoemwork 1 Merge Conflict
+Technical Homework 1 Merge Conflict
